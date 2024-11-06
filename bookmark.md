@@ -145,6 +145,10 @@
 
 ## Company
 
+<DT><A HREF="https://www.centec.com/">盛科通信</A>
+<DT><A HREF="http://www.netforward-tech.com/">楠菲微电子</A>
+
+	
 <DT><A HREF="https://zenosic.com/">篆芯半导体</A>
 <DT><A HREF="https://www.fungible.com/">Fungible | Composable Disaggregated Infrastructure</A>
 <DT><A HREF="http://www.yusur.tech/zkls/zkys/index.html">中科驭数|为智能计算提供DPU芯片及产品解决方案</A>
