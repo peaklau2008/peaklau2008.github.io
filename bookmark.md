@@ -1,6 +1,10 @@
 ## IT
 
-<DT><A HREF="http://192.168.150.189/">项目管理</A>       
+
+<DT><A HREF="http://172.27.250.100:28080/">Latex</A>       
+<DT><A HREF="http://172.27.250.100:38080/">RAGFlow</A>       	   	
+<DT><A HREF="http://192.168.150.188/">GitLab</A>       		
+<DT><A HREF="http://192.168.150.189/">Redmine</A>       
 <DT><A HREF="https://alidocs.dingtalk.com/i/desktop">钉钉</A>
 <DT><A HREF="https://seanetnetworktech.feishu.cn/wiki/wikcnZmBJWSaPo05yJTcpSOxmRe">⁡﻿‬‬‌‌‌‍​﻿⁡⁣​​⁡﻿⁤​​​​​⁤﻿⁢⁣‬​﻿﻿​﻿﻿⁢‍‍⁣‬⁢‬​⁤⁤​‍‍⁢⁤‬飞书云文档</A>
 <DT><A HREF="https://colab.research.google.com/">Colab</A>
@@ -8,6 +12,7 @@
 <DT><A HREF="https://qiye.aliyun.com/">阿里企业邮箱</A>
 <DT><A HREF="http://www.zycg.gov.cn/">中央政府采购网</A>
 
+<br>
 
 ## Research
 
@@ -27,10 +32,13 @@
 <DT><A HREF="http://yuba.stanford.edu/~nickm/">Nick McKeown</A>
 <DT><A HREF="https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java">SEI CERT Oracle Coding Standard for Java - SEI CERT Oracle Coding Standard for Java - Confluence</A>
 
+<br>
 
 ## SPECS
 
 <DT><A HREF="https://datatracker.ietf.org/doc/html/rfc1925" ADD_DATE="1712159983">RFC 1925 - The Twelve Networking Truths</A>
+
+<br>
 
 ## FPGA
 
@@ -67,7 +75,7 @@
 <DT><A HREF="http://www.xperis.com.cn/technology.html">FAST技术</A>
 <DT><A HREF="https://blog.csdn.net/K346K346/article/details/102625814">编码标识符缩写建议_爱码大鲤鱼的博客-CSDN博客</A>
 
-        
+<br>        
 		
 ## Network
 
@@ -109,19 +117,20 @@
 <DT><A HREF="https://mp.weixin.qq.com/s/-KyaH0dd0Vv7U7_28I55dg">附下载 | 图解密评联委会《商用密码应用安全性评估FAQ(第二版)》</A>
 <DT><A HREF="https://www.renrendoc.com/paper/95750610.html">1.2、基于网络设备的Vxlan技术实现0807--含elearning</A>
 
-
+<br>
 
 ## AI
 
 <DT><A HREF="https://platform.deepseek.com" >DeepSeek Platform</A>
 
-
+<br>
 
 ## AI Server
 
 <DT><A HREF="https://www.supermicro.com/en/products/gpu">GPU Servers | Supermicro</A>
 <DT><A HREF="https://lambdalabs.com/">GPU Cloud, Clusters, Servers, Workstations | Lambda</A>
 
+<br>
 
 ## Linux
 
@@ -133,7 +142,7 @@
 <DT><A HREF="https://www.msys2.org/">MSYS2</A>
 <DT><A HREF="https://www.liberouter.org/" >Liberouter / Cesnet TMC group | Programmable hardware | Liberouter / Cesnet TMC group</A>
 
-
+<br>
 
 ## Cloud
 
@@ -143,8 +152,9 @@
 <DT><A HREF="https://icyfenix.cn/">凤凰架构：构筑可靠的大型分布式系统 | 凤凰架构</A>
 <DT><A HREF="https://www.openstack.org/user-survey/survey-2022/landing?BackURL=/user-survey/survey-2022/">2022 OpenStack User Survey</A>
 
+<br>
               
-#
+
 ## Company
 
 
