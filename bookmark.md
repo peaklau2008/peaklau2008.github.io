@@ -14,6 +14,7 @@
 
 <br>
 
+
 ## Research
 
 
@@ -34,13 +35,17 @@
 
 <br>
 
+
 ## SPECS
+
 
 <DT><A HREF="https://datatracker.ietf.org/doc/html/rfc1925" ADD_DATE="1712159983">RFC 1925 - The Twelve Networking Truths</A>
 
 <br>
 
+
 ## FPGA
+
 
 <DT><A HREF="https://netfpga.org/">NetFPGA</A>
 <DT><A HREF="https://github.com/corundum/corundum">GitHub - corundum/corundum: Open source, high performance, FPGA-based NIC</A>
@@ -76,8 +81,10 @@
 <DT><A HREF="https://blog.csdn.net/K346K346/article/details/102625814">编码标识符缩写建议_爱码大鲤鱼的博客-CSDN博客</A>
 
 <br>        
-		
+
+  
 ## Network
+
 
 <DT><A HREF="https://www.broadcom.com/blog/deploying-ai-ml-training-clusters-with-ip-ethernet">Deploying AI/ML training clusters with IP/Ethernet</A>
 <DT><A HREF="https://cloudswit.ch/blogs/asterfusion-400g-p4-programmable-switch-intel-tofino-2/">Asterfusion Releases 32*400G P4 Programmable Switch On Intel Tofino 2</A>
@@ -119,20 +126,26 @@
 
 <br>
 
+
 ## AI
+
 
 <DT><A HREF="https://platform.deepseek.com" >DeepSeek Platform</A>
 
 <br>
 
+
 ## AI Server
+
 
 <DT><A HREF="https://www.supermicro.com/en/products/gpu">GPU Servers | Supermicro</A>
 <DT><A HREF="https://lambdalabs.com/">GPU Cloud, Clusters, Servers, Workstations | Lambda</A>
 
 <br>
 
+
 ## Linux
+
 
 <DT><A HREF="https://www.kernel.org/doc/html/latest/networking/index.html">Linux Networking Documentation — The Linux Kernel documentation</A>
 <DT><A HREF="https://www.cnblogs.com/charlieroro/p/13403672.html">全面介绍eBPF-概念 - charlieroro - 博客园</A>
@@ -144,7 +157,9 @@
 
 <br>
 
+
 ## Cloud
+
 
 <DT><A HREF="https://www.cncf.io/">Cloud Native Computing Foundation</A>
 <DT><A HREF="https://kind.sigs.k8s.io/">kind</A>
