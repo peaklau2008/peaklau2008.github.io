@@ -219,13 +219,106 @@
 ## Product
 
 ### AI
-<DT><A HREF="https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm78900-series">51.2T</A>
+<DT><A HREF="https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm78900-series">bcm78900-series(5nm)</A>
+64 × 800GbE, 128 × 400GbE, or 256 × 200GbE ports
+Advanced adaptive routing, dynamic load balancing, and support for end-to-end congestion control capabilities specifically designed to handle the large, low entropy flows typical of AI/ML workloads
+Hardware-based link failover for improved network resiliency and reduced JCT
+Six on-chip ARM processors for high-bandwidth, fully-programmable streaming telemetry and sophisticated embedded applications such as on-chip statistics summarization
+Unmatched power efficiency, implemented as a monolithic 5nm die	
+<DT><A HREF="https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56990-series">bcm56990-series(7nm)</A>
+64 × 400GbE, 128 × 200GbE, 256 × 100GbE, 256 × 40GbE, 256 × 25GbE, or 256 × 10GbE
+The industry’s most advanced shared-buffer architecture, offering up to 10X higher incast absorption and providing the highest performance and lowest end-to-end latency for RoCEv2 workloads
+New advanced load balancing mechanisms, virtually eliminating hash polarization and providing extremely efficient, controllable link utilization
+Advanced congestion management, enabling new traffic management paradigms
+Four 1 GHz ARM processors for high-bandwidth, fully-programmable streaming telemetry and sophisticated embedded applications such as on-chip statistics summarization
+Implemented with unparalleled power efficiency in a monolithic 7nm die	
+<DT><A HREF="https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56980-series">bcm56980-series</A>
+32x400GbE, 64x200GbE or 128x100GbE
+256 integrated SerDes with 56G-PAM4
+New Elephant Flow feature
+Dynamic Load Balancing and Dynamic Group Multipathing enhance ECMP
+New shared-buffer architecture offers 4X higher burst absorption and improved performance for ROCEv2 workloads
 
+<DT><A HREF="">Broadcom Tomahawk 5 Minipack3</A>
+<DT><A HREF="">Cisco G200-powered Cisco 8501</A>
+	
+<DT><A HREF="https://resources.nvidia.com/en-us-data-center-overview-mc/en-us-data-center-overview/hpc-datasheet-sc23-h200">H200(4nm)</A>	
+TSMC 4N process	
+1,979 TFLOPS
+141GB HBM3e, 4.8TB/s
+NVIDIA NVLink™: 900GB/s
+PCIe Gen5
+700W
+<DT><A HREF="https://resources.nvidia.com/en-us-gpu-resources/h100-datasheet-24306?lx=CPwSfP">H100(4nm)</A>	
+TSMC 4N process, 80 billion transistors, a die size of 814 mm2
+1,979 TFLOPS
+80GB HBM3, 3.35TB/s
+NVIDIA NVLink™: 900GB/s	
+PCIe Gen 5	
+700W	
+<DT><A HREF="https://resources.nvidia.com/en-us-gpu-resources/nvidia-a100-datashee-1?lx=CPwSfP">A100(7nm)</A>
+TSMC’s 7nm N7, 54.2 billion transistors with a die size of 826 mm2.	
+624 TFLOPS
+80GB HBM2e, 2,039GB/s
+PCIe Gen4	
+400W
+
+<DT><A HREF="https://www.amd.com/en/products/accelerators/instinct/mi300/mi325x.html">AMD Instinct™ MI325X(5nm)</A>
+TSMC 5nm | 6nm FinFET, 153 Billion
+1.3 PFLOPs
+256 GB HBM3E, 6 TB/s
+PCIe® 5.0 x16	
+1000W 
+ 
+ 
+<DT><A HREF="">Gaudi 3(5nm)</A>
+TSMC 5nm	
+1835 TFLOPS	
+128GB(2x 64GB) HBM2e，3.7TB/sec
+200Gb Ethernet
+900W
+<DT><A HREF="">Gaudi 2(7nm)</A>
+TSMC 7nm	
+432 TFLOPS	
+96GB HBM2e，2.45TB/sec
+200Gb Ethernet
+600W
+
+<DT><A HREF="https://www.eet-china.com/mp/a259980.html">华为昇腾910B</A>
+华为昇腾910B的能力已经基本达到英伟达A100的水平
+64GB HBM2E
+376 TFLOPS	
+PCIe 5.0 x16
+直出200Gb RoCE	
+400W
+
+<DT><A HREF="https://www.iluvatar.com/productDetails?fullCode=cpjs-yj-xlxl-tg100">天数智芯天垓100(7nm)</A>
+7nm， 240亿晶体管
+147 TFLOPS
+32GB HBM2，1.2TB/sec
+PCIe® 4.0 x16
+<DT><A HREF="https://support.enflame-tech.com/onlinedoc_hw/1-t2x/t21/product_manual/content/source/product-manual.html#id6">燧原云燧T21</A>
+12nm?	
+32GB HBM2E, 1.6TB/s
+PCIe 4.0 x16
+300W
+
+
+
+	
+
+
+AMD Instinct MI300X
+NVIDIA GB200
+AMD Pensando Pollara 400
+Cisco 8102-DPU 12.8T Switch
+ 
 <DT><A HREF="https://docs.nvidia.com/networking/display/connectx5en/specifications">MCX516A-CDAT</A>
 68.90mm x 142.24 mm, 29.0W
+<DT><A HREF="https://www.bittware.com/products/ia-780i/">ia-780i</A>	
+AGI023, 11.15mm x 254.00mm, 150W	
 <DT><A HREF="https://www.bittware.com/products/ia-440i/">ia-440i</A>
 AGI023, 68.90mm x 167.65 mm, 75W
- 
 <DT><A HREF="https://docs.amd.com/r/en-US/ds962-u200-u250/Dimensions">U200</A>
 Xilinx XCVU9P, 291 x 111.28 x 39.04, 215W
 <DT><A HREF="https://www.semptian.com/proinfo/175.html">MA-X1 FPGA加速卡</A>
