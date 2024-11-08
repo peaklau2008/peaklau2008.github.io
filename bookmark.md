@@ -229,7 +229,7 @@ Xilinx XCVU9P, 291 x 111.28 x 39.04, 215W
 Xilinx XCVU9P, 276.8 x 111.1 x 39.97, 300W
 <DT><A HREF="https://www.semptian.com/proinfo/10.html">NSA.MA-A3加速卡</A>	
 AG027, 半高半长单宽
-
+<DT><A HREF="">网卡目标尺寸: 170x111x20(长x高x宽)</A>	
 
 
 
