@@ -214,4 +214,28 @@
 <DT><A HREF="https://www.achronix.com/">Achronix Semiconductor Corporation | Achronix Semiconductor Corporation</A>
 <DT><A HREF="https://dreambigsemi.com/">DreamBigSemi</A>
 <DT><A HREF="http://www.vecloud.com/">云专线_海外IDC_原生IP_IPLC专线 - VeCloud</A>
+
+
+## Product
+
+### AI
+<DT><A HREF="https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm78900-series">51.2T</A>
+
+<DT><A HREF="https://docs.nvidia.com/networking/display/connectx5en/specifications">MCX516A-CDAT</A>
+68.90mm x 142.24 mm, 29.0W
+<DT><A HREF="https://docs.amd.com/r/en-US/ds962-u200-u250/Dimensions">U200</A>
+Xilinx XCVU9P, 291 x 111.28 x 39.04, 215W
+<DT><A HREF="https://www.semptian.com/proinfo/175.html">MA-X1 FPGA加速卡</A>
+Xilinx XCVU9P, 276.8 x 111.1 x 39.97, 300W
+<DT><A HREF="https://www.semptian.com/proinfo/10.html">NSA.MA-A3加速卡</A>	
+AG027, 半高半长单宽
+
+
+
+
+
+### DataCenter
+
+
+
  
