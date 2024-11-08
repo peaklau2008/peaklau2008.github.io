@@ -223,6 +223,9 @@
 
 <DT><A HREF="https://docs.nvidia.com/networking/display/connectx5en/specifications">MCX516A-CDAT</A>
 68.90mm x 142.24 mm, 29.0W
+<DT><A HREF="https://www.bittware.com/products/ia-440i/">ia-440i</A>
+AGI023, 68.90mm x 167.65 mm, 75W
+ 
 <DT><A HREF="https://docs.amd.com/r/en-US/ds962-u200-u250/Dimensions">U200</A>
 Xilinx XCVU9P, 291 x 111.28 x 39.04, 215W
 <DT><A HREF="https://www.semptian.com/proinfo/175.html">MA-X1 FPGA加速卡</A>
