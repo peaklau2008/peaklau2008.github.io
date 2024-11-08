@@ -219,6 +219,35 @@
 ## Product
 
 ### AI
+
+<DT><A HREF="">NF5468M5</A>
+8xPCle 3.0 FHFLDW, 4xPCle 3.0 FHHLSW
+<DT><A HREF="https://www.ieisystem.com/product/ai/8629.html">NF5468M6-P</A>
+支持2颗全新一代英特尔® 至强® Icelake可扩展处理器	
+8xPCle 4.0 FHFLDW, 4xPCle 4.0 FHHLSW
+<DT><A HREF="https://www.ieisystem.com/product/ai/11286.html">NF5468-M7</A>
+支持2颗英特尔®第四代/第五代至强®可扩展处理器
+支持8颗全高全长双宽PCIe接口GPU卡，同时支持≥4个PCIe 5.0 x16插槽
+<DT><A HREF="https://www.ieisystem.com/product/ai/10694.html">NF5468A5</A>
+支持2颗AMD EPYC处理器，TDP 280W，最高支持3 xGMI互联
+支持8个PCIe接口的GPU卡，TDP 350W
+支持2个PCIe 4.0 x16，1个OCP3.0
+<DT><A HREF="https://www.ieisystem.com/product/ai/15080.html">NF5688-M7</A>
+2颗Intel®第四代/第五代至强®可扩展处理器,TDP 350W
+1块NVIDIA HGX-Hopper-8GPU模组
+支持10个PCIe 5.0 x16插槽（其中1个PCIe 5.0 x16插槽可替换为2个PCIe 5.0 x8速率的x16槽位）
+<DT><A HREF="https://www.ieisystem.com/product/ai/14951.html">NF5698G7</A>
+6U
+8颗符合OAMv1.1/v1.5规范的开放加速模块，最大TDP 700W
+2颗Intel®第四代/第五代至强®可扩展处理器,TDP 350W
+支持10个PCIe 5.0 x16插槽（其中1个PCIe 5.0 x16插槽可替换为2个PCIe 5.0 x8速率的x16槽位）  可选支持Blueﬁeld-3、CX7以及多种类型智能网卡
+
+
+
+
+
+ 
+
 <DT><A HREF="https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm78900-series">bcm78900-series(5nm)</A>
 64 × 800GbE, 128 × 400GbE, or 256 × 200GbE ports
 Advanced adaptive routing, dynamic load balancing, and support for end-to-end congestion control capabilities specifically designed to handle the large, low entropy flows typical of AI/ML workloads
@@ -272,7 +301,15 @@ TSMC’s 7nm N7, 54.2 billion transistors with a die size of 826 mm2.
 PCIe Gen4	
 400W
 <br>
-	
+
+<DT><A HREF="https://resources.nvidia.com/en-us-gpu-resources/proviz-partner-l40s?lx=CPwSfP">L40S</A>
+362 TFLOPS
+48GB GDDR6, 864GB/s
+PCIe Gen4	
+350W
+<br>
+
+ 
 <DT><A HREF="https://www.amd.com/en/products/accelerators/instinct/mi300/mi325x.html">AMD Instinct™ MI325X(5nm)</A>
 TSMC 5nm | 6nm FinFET, 153 Billion
 1.3 PFLOPs
