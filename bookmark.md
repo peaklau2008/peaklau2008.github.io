@@ -6,7 +6,7 @@
 <DT><A HREF="http://192.168.150.188/">GitLab</A>       		
 <DT><A HREF="http://192.168.150.189/">Redmine</A>       
 <DT><A HREF="https://alidocs.dingtalk.com/i/desktop">钉钉</A>
-<DT><A HREF="https://seanetnetworktech.feishu.cn/wiki/wikcnZmBJWSaPo05yJTcpSOxmRe">⁡﻿‬‬‌‌‌‍​﻿⁡⁣​​⁡﻿⁤​​​​​⁤﻿⁢⁣‬​﻿﻿​﻿﻿⁢‍‍⁣‬⁢‬​⁤⁤​‍‍⁢⁤‬飞书云文档</A>
+<DT><A HREF="https://seanetnetworktech.feishu.cn/wiki/wikcnZmBJWSaPo05yJTcpSOxmRe">飞书云文档</A>
 <DT><A HREF="https://colab.research.google.com/">Colab</A>
 <DT><A HREF="https://www.casmooc.cn/#/home">中国科学院继续教育网</A>
 <DT><A HREF="https://qiye.aliyun.com/">阿里企业邮箱</A>
@@ -105,7 +105,7 @@
 <DT><A HREF="https://netbergtw.com/products/enterprise-sonic/">netberg</A>
 <DT><A HREF="https://www.sigarch.org/in-network-computing-draft/">In-Network Computing | SIGARCH</A>
 <DT><A HREF="https://tools.ietf.org/id/draft-he-coin-managed-networks-00.html">In-Network Computing for Managed Networks: Use Cases and Research Challenges</A>
-<DT><A HREF="https://www.kernel.org/doc/html/v4.18/networking/af_xdp.html">AF_XDP — The Linux Kernel documentation</A>
+<DT><A HREF="https://www.kernel.org/doc/html/v4.18/networking/af_xdp.html">AF_XDP  The Linux Kernel documentation</A>
 <DT><A HREF="https://wiki.geant.org/display/RARE">Home - RARE - GÉANT federated confluence</A>
 <DT><A HREF="https://github.com/stratum/stratum#supported-devices">GitHub - stratum/stratum: Stratum Project Main Repo</A>
 <DT><A HREF="https://www.sdxcentral.com/networking/sdn/news/">SDN News Articles - SDxCentral .com</A>
@@ -280,7 +280,7 @@ TSMC 5nm
 <DT><A HREF="">Gaudi 2(7nm)</A>
 TSMC 7nm	
 432 TFLOPS	
-96GB HBM2e，2.45TB/sec
+96GB HBM2e, 2.45TB/sec
 200Gb Ethernet
 600W
 
@@ -293,9 +293,9 @@ PCIe 5.0 x16
 400W
 
 <DT><A HREF="https://www.iluvatar.com/productDetails?fullCode=cpjs-yj-xlxl-tg100">天数智芯天垓100(7nm)</A>
-7nm， 240亿晶体管
+7nm, 240亿晶体管
 147 TFLOPS
-32GB HBM2，1.2TB/sec
+32GB HBM2, 1.2TB/sec
 PCIe® 4.0 x16
 <DT><A HREF="https://support.enflame-tech.com/onlinedoc_hw/1-t2x/t21/product_manual/content/source/product-manual.html#id6">燧原云燧T21</A>
 12nm?	
