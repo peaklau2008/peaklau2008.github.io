@@ -14,6 +14,13 @@
 
 <br>
 
+## News
+
+
+<DT><A HREF="https://www.servethehome.com/">AI, Server, Network @servethehome.com</A>
+
+
+<br>
 
 ## Research
 
