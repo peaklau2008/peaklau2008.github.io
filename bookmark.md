@@ -218,34 +218,85 @@
 
 ## Product
 
-### AI
+### AI Server
 
-<DT><A HREF="">NF5468M5</A>
+<DT><A HREF="">浪潮NF5468M5</A>
 8xPCle 3.0 FHFLDW, 4xPCle 3.0 FHHLSW
-<DT><A HREF="https://www.ieisystem.com/product/ai/8629.html">NF5468M6-P</A>
+<DT><A HREF="https://www.ieisystem.com/product/ai/8629.html">浪潮NF5468M6-P</A>
 支持2颗全新一代英特尔® 至强® Icelake可扩展处理器	
 8xPCle 4.0 FHFLDW, 4xPCle 4.0 FHHLSW
-<DT><A HREF="https://www.ieisystem.com/product/ai/11286.html">NF5468-M7</A>
+<DT><A HREF="https://www.ieisystem.com/product/ai/11286.html">浪潮NF5468-M7</A>
 支持2颗英特尔®第四代/第五代至强®可扩展处理器
 支持8颗全高全长双宽PCIe接口GPU卡，同时支持≥4个PCIe 5.0 x16插槽
-<DT><A HREF="https://www.ieisystem.com/product/ai/10694.html">NF5468A5</A>
+<DT><A HREF="https://www.ieisystem.com/product/ai/10694.html">浪潮NF5468A5</A>
 支持2颗AMD EPYC处理器，TDP 280W，最高支持3 xGMI互联
 支持8个PCIe接口的GPU卡，TDP 350W
 支持2个PCIe 4.0 x16，1个OCP3.0
-<DT><A HREF="https://www.ieisystem.com/product/ai/15080.html">NF5688-M7</A>
+<DT><A HREF="https://www.ieisystem.com/product/ai/15080.html">浪潮NF5688-M7</A>
 2颗Intel®第四代/第五代至强®可扩展处理器,TDP 350W
 1块NVIDIA HGX-Hopper-8GPU模组
 支持10个PCIe 5.0 x16插槽（其中1个PCIe 5.0 x16插槽可替换为2个PCIe 5.0 x8速率的x16槽位）
-<DT><A HREF="https://www.ieisystem.com/product/ai/14951.html">NF5698G7</A>
+<DT><A HREF="https://www.ieisystem.com/product/ai/14951.html">浪潮NF5698G7</A>
 6U
 8颗符合OAMv1.1/v1.5规范的开放加速模块，最大TDP 700W
 2颗Intel®第四代/第五代至强®可扩展处理器,TDP 350W
 支持10个PCIe 5.0 x16插槽（其中1个PCIe 5.0 x16插槽可替换为2个PCIe 5.0 x8速率的x16槽位）  可选支持Blueﬁeld-3、CX7以及多种类型智能网卡
 
+<DT><A HREF="https://www.h3c.com/cn/Products_And_Solution/Server/HPE/Products/GPU_Server/Products_Series/DL380a_Gen11/">新华三DL380a Gen11</A>
+2U
+支持2颗第四代Sapphire Rapids或第五代Emerald Rapids英特尔®至强®可扩展处理器，单颗多达64个核心，最大功率350W
+支持4个PCIe 5.0插槽、支持2个x16 OCP 3.0插槽
+
+<DT><A HREF="https://www.h3c.com/cn/Products_And_Solution/Server/HPE/Products/GPU_Server/Products_Series/Apollo_6500_Plus/">新华三Apollo_6500_Plus</A>
+6U
+HPE ProLiant XL645d 计算节点
+每个节点为单个AMD EPYC 7002/7003 系列处理器，可支持最高频率和核数的功耗达280W
+支持NVIDIA HGX A100 4-GPU
+HPE ProLiant XL675d 计算节点
+单个节点为支持两个AMD EPYC 7002/7003 系列处理器，可支持最高频率和核数的功耗达280W
+支持NVIDIA HGX A100 8-GPU
+
+<DT><A HREF="https://www.nettrix.com.cn/product/1590.html">宁畅X680 G55</A>
+8U
+支持2颗第四代/第五代英特尔® 至强® 可扩展处理器，TDP 350W
+支持NVLink GPU 8个	
+最大可配置9个PCIe 5.0 1个OCP 1个 RAID卡专用插槽	
+
+<DT><A HREF="https://www.nettrix.com.cn/product/1591.html">宁畅X640 G50</A>
+4U
+支持2颗第四代/第五代智能英特尔® 至强® 可扩展处理器，TDP 350W
+最大可配置12个PCIe 5.0扩展插槽，最大支持 10个双宽GPU	
+
+<DT><A HREF="https://www.nettrix.com.cn/product/1575.html">宁畅X620 G50</A>
+2U
+支持2颗第四代/第五代英特尔® 至强® 可扩展处理器，TDP 385W
+最大可配置9个PCIe 5.0扩展插槽，包含1个OCP插槽，最大支持4个双宽GPU或6个单宽GPU
+
+<DT><A HREF="https://www.nettrix.com.cn/product/1571.html">宁畅X660 G45</A>
+6U
+支持2颗第三代智能英特尔®至强®可扩展处理器
+8个NVIDIA®Tesla®SXM4 A800 （液冷专用）
+最大支持10个PCI-E4.0插槽（支持1个OCP）
+
+<DT><A HREF="https://www.nettrix.com.cn/product/1555.html">宁畅X640 G40</A>
+4U
+支持2颗第三代智能英特尔®至强®可扩展处理器
+最大支持20个PCI-E4.0插槽
+-（支持一个OCP网卡，支持≥4个PCIe 4.0全高全长扩展插槽，其中PCIe X16插槽8个）
+
+<DT><A HREF="https://www.nettrix.com.cn/product/1553.html">宁畅X620 G40</A>
+2U
+支持2颗第三代智能英特尔®至强®可扩展处理器
+最大支持10个PCIe 4.0 x16插槽（包含1个OCP网卡），支持PCIe 4.0全高全长扩展插槽	
 
 
 
+<br>
+<br>
+<br>
 
+
+### AI Switch
  
 
 <DT><A HREF="https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm78900-series">bcm78900-series(5nm)</A>
@@ -275,7 +326,9 @@ New shared-buffer architecture offers 4X higher burst absorption and improved pe
 	
 <DT><A HREF="">Broadcom Tomahawk 5 Minipack3</A>
 <DT><A HREF="">Cisco G200-powered Cisco 8501</A>
-	
+
+ ### GPU
+ 
 <DT><A HREF="https://resources.nvidia.com/en-us-data-center-overview-mc/en-us-data-center-overview/hpc-datasheet-sc23-h200">H200(4nm)</A>	
 TSMC 4N process	
 1,979 TFLOPS
