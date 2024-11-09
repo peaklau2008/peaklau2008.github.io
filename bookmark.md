@@ -412,16 +412,27 @@ PCIe 4.0 x16
 <br>
 
 
+
+### RNIC
+
+<DT><A HREF="https://www.amd.com/content/dam/amd/en/documents/pensando-technical-docs/product-briefs/pensando-pollara-400-product-brief.pdf">AMD Pollara 400</A>
+400 Gbps
+QSFP112 (NRZ/PAM4 Serdes)
+Half-height, half-length (HHHL)
+PCIe Gen5.0 x16
+P4 Programmability
+Multipathing & Intelligent Packet Spraying
+In-Order Message Delivery
+Fast Loss Recover with Selective Retransmission
+Path Aware Congestion Control
+Rapid Fault Detection in High-Performance AI Networks
 	
-
-
-AMD Instinct MI300X
-NVIDIA GB200
-AMD Pensando Pollara 400
-Cisco 8102-DPU 12.8T Switch
- 
 <DT><A HREF="https://docs.nvidia.com/networking/display/connectx5en/specifications">MCX516A-CDAT</A>
 68.90mm x 142.24 mm, 29.0W
+
+
+### FPGA
+
 <DT><A HREF="https://www.bittware.com/products/ia-780i/">ia-780i</A>	
 AGI023, 11.15mm x 254.00mm, 150W	
 <DT><A HREF="https://www.bittware.com/products/ia-440i/">ia-440i</A>
@@ -432,7 +443,7 @@ Xilinx XCVU9P, 291 x 111.28 x 39.04, 215W
 Xilinx XCVU9P, 276.8 x 111.1 x 39.97, 300W
 <DT><A HREF="https://www.semptian.com/proinfo/10.html">NSA.MA-A3加速卡</A>	
 AG027, 半高半长单宽
-<DT><A HREF="">网卡目标尺寸: 170x111x20(长x高x宽)</A>	
+<DT><A HREF="">网卡目标尺寸: 167x111x20(长x高x宽)</A>	
 
 
 
@@ -442,3 +453,5 @@ AG027, 半高半长单宽
 
 
  
+AMD Pensando Pollara 400
+Cisco 8102-DPU 12.8T Switch
