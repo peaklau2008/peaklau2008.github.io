@@ -292,6 +292,26 @@ HPE ProLiant XL675d 计算节点
 
 
 <br>
+
+### 国产通用服务器
+
+<DT><A HREF="https://www.ieisystem.com/product/server/15942.html">浪潮NF3290G8</A>
+2U
+1颗或2颗英特尔®至强® 6处理器（SRF-AP/GNR-AP），TDP 500W  
+支持4个PCIe5.0 HHHL slot或者4x2.5寸硬盘，可选SAS/SATA/NVMe，支持热拔插
+
+<DT><A HREF="https://www.ieisystem.com/product/server/15936.html">浪潮NF3280G8</A>
+2U
+1颗AMD EPYC™ 9005系列处理器
+最大支持8个PCIe5.0扩展|支持2个OCP 3.0 网卡|最大支持4×DW GPU
+
+<DT><A HREF="https://www.ieisystem.com/product/server/15922.html">浪潮NF5280M8</A>
+2U
+1颗或2颗英特尔®至强®6处理器
+（后IO）最大支持15个PCIe 5.0扩展槽位，包括2个热插拔OCP 3.0
+可支持4个双宽GPU及8个单宽GPU
+
+
 <br>
 <br>
 
