@@ -381,7 +381,17 @@ PCIe Gen 5
 	
 <DT><A HREF="https://resources.nvidia.com/en-us-gpu-resources/nvidia-a100-datashee-1?lx=CPwSfP">A100(7nm)</A>
 TSMC’s 7nm N7, 54.2 billion transistors with a die size of 826 mm2.	
-624 TFLOPS
+7 GPCs, 7 or 8 TPCs/GPC, 2 SMs/TPC, up to 16 SMs/GPC, 108 SMs
+64 FP32 CUDA Cores/SM, 6912 FP32 CUDA Cores per GPU
+4 Third-generation Tensor Cores/SM, 432 Third-generation Tensor Cores per GPU
+5 HBM2 stacks, 10 512-bit Memory Controllers	
+9.7 TFLOPS@FP64
+19.5 TFLOPS@FP64 Tensor Core	
+19.5 TFLOPS@FP32
+156 TFLOPS | 312 TFLOPS*@TF32
+312 TFLOPS | 624 TFLOPS*@BFLOAT16 Tensor Core	
+312 TFLOPS | 624 TFLOPS*@FP16 Tensor Core	
+624 TOPS | 1248 TOPS*@INT8 Tensor Core	
 80GB HBM2e, 2,039GB/s
 PCIe Gen4	
 400W
