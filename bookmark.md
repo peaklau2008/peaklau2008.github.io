@@ -416,12 +416,40 @@ PCIe 5.0 x16
 直出200Gb RoCE	
 400W
 <br>
-	
-<DT><A HREF="https://www.iluvatar.com/productDetails?fullCode=cpjs-yj-xlxl-tg100">天数智芯天垓100(7nm)</A>
+
+
+
+<DT><A HREF="https://www.geekpark.net/news/306540">壁仞BR100</A>
+7nm，770 亿个晶体管，1000mm²
+64GB HBM2E
+1024 TFLOPS@BF16
+2048 TFLOPS@int8
+550W	
+<br>
+
+<DT><A HREF="https://www.geekpark.net/news/306540">壁仞BR104</A>
+7nm
+32GB HBM2E
+512 TFLOPS@BF16
+1024 TFLOPS@int8
+300W	
+<br>
+
+
+<DT><A HREF="https://www.iluvatar.com/productDetails?fullCode=cpjs-yj-xlxl-tg100">天数智芯天垓100(7nm)(兼容CUDA)</A>
 7nm, 240亿晶体管
 147 TFLOPS
 32GB HBM2, 1.2TB/sec
 PCIe® 4.0 x16
+<br>
+
+<DT><A HREF="https://www.vzkoo.com/read/2024082266eda1c2a51eaf56d9404032.html">海光DCU100(兼容CUDA)</A>
+7nm
+10 TFLOPS@FP64	
+12 TFLOPS@FP32
+32GB HBM2
+PCIe® 4.0 x16
+350W	
 <br>
 	
 <DT><A HREF="https://support.enflame-tech.com/onlinedoc_hw/1-t2x/t21/product_manual/content/source/product-manual.html#id6">燧原云燧T21</A>
@@ -429,6 +457,39 @@ PCIe® 4.0 x16
 32GB HBM2E, 1.6TB/s
 PCIe 4.0 x16
 300W
+<br>
+
+<DT><A HREF="https://www.mthreads.com/product/S4000">摩尔线程MTT S4000</A>
+100 TFLOPS@FP16
+200 TOPS@INT8
+48 GB, 768 GB/s
+PCIe 5.0 x16
+450W
+<br>
+	
+<DT><A HREF="https://www.mthreads.com/product/S3000">摩尔线程MTT S3000</A>
+15.2 TFLOPS@FP32
+32GB GDDR6, 448GB/s
+PCIe 5.0 x16
+250W
+<br>
+	
+<DT><A HREF="https://www.cambricon.com/index.php?m=content&c=index&a=lists&catid=406">寒武纪思元MLU370-X8</A>
+7nm
+96 TFLOPS@FP16
+256 TOPS@INT8
+48GB LPDDR5 614.4 GB/s
+PCIe 4.0 x16
+250W
+<br>
+
+<DT><A HREF="https://www.cambricon.com/index.php?m=content&c=index&a=lists&catid=365">寒武纪思元MLU370-S4/S8</A>
+7nm
+72 TFLOPS@FP16
+192 TOPS@INT8
+24GB/48GB LPDDR5 307.2 GB/s
+PCIe 4.0 x16
+75W
 <br>
 
 
