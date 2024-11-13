@@ -387,6 +387,16 @@ PCIe Gen4
 400W
 <br>
 
+<DT><A HREF="https://www.nvidia.com/en-us/data-center/v100/">V100(12nm)</A>
+TSMC 12 nm FFN 21,100 million 815 mm²
+7 TFLOPS@FP64
+14 TFLOPS@FP32
+28 TFLOPS@FP16
+16 GB HBM2 900 GB/s
+PCIe Gen3	
+250W
+<br>
+
 <DT><A HREF="https://resources.nvidia.com/en-us-gpu-resources/proviz-partner-l40s?lx=CPwSfP">L40S</A>
 362 TFLOPS
 48GB GDDR6, 864GB/s
