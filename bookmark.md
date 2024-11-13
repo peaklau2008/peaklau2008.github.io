@@ -348,7 +348,19 @@ New shared-buffer architecture offers 4X higher burst absorption and improved pe
 <DT><A HREF="">Cisco G200-powered Cisco 8501</A>
 
  ### GPU
- 
+
+<DT><A HREF="https://www.hankunlaw.com/portal/article/index/cid/8/id/13998.html">高性能芯片（3A090）及包含该等芯片的计算机、电子组件和部件（4A090）</A>	
+1007规则在CCL中新增了一系列高性能芯片相关物项的ECCN，其中包括高性能芯片（3A090）及包含该等芯片的计算机、电子组件和部件（4A090）。
+1007规则出台后，英伟达的A100和H100芯片均符合相应ECCN项下的技术参数，从而落入出口管制范围。
+为了规避出口管制，英伟达推出特供中国的A800和H800芯片，在传输速率上有所降低，从而能够绕开1007规则项下的技术参数，但在算力上并没有区别。
+BIS为了应对该等技术规避行为，在1017规则中调整了高性能芯片的技术参数，放弃了传输速率，引入了性能密度，从而扩展了3A090所包含的高性能芯片的范围。
+1017规则项下高性能芯片的技术参数如下：
+第一级：总处理性能≥4,800；或总处理性能≥1,600，且性能密度≥5.92
+第二级：4,800＞总处理性能≥2,400，且5.92＞性能密度≥1.6；或总处理性能≥1,600，且5.92＞性能密度≥3.2
+"总处理能力" (Total Processing Power, TPP)
+"性能密度" (Performance Density，即TPP分数除以芯片尺寸即可得到的数字）	
+<br>
+	 
 <DT><A HREF="https://resources.nvidia.com/en-us-data-center-overview-mc/en-us-data-center-overview/hpc-datasheet-sc23-h200">H200(4nm)</A>	
 TSMC 4N process	
 1,979 TFLOPS
