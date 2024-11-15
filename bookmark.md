@@ -528,6 +528,20 @@ PCIe 4.0 x16
 
 ### RNIC
 
+<DT><A HREF="https://docs.nvidia.com/networking/display/connectx7vpi">NVIDIA Mellanox MCX715105AS-WEAT ConnectX®-7</A>
+Adapter Card Size（W×D）: 68.90mm x 167.65 mm
+Ethernet: 1x400GbE
+Interface Type: QSFP112	
+Host Interface: PCIe 5.0 x16
+
+<DT><A HREF="https://docs.nvidia.com/networking/display/connectx5en">MCX516A-CDAT</A>
+Adapter Card Size（W×D）: 68.90mm x 142.24 mm
+Ethernet: 2x100GbE
+Interface Type: QSFP28	
+Host Interface: PCIe 3.0 x16
+
+
+
 <DT><A HREF="https://www.amd.com/content/dam/amd/en/documents/pensando-technical-docs/product-briefs/pensando-pollara-400-product-brief.pdf">AMD Pollara 400</A>
 400 Gbps
 QSFP112 (NRZ/PAM4 Serdes)
@@ -540,8 +554,6 @@ Fast Loss Recover with Selective Retransmission
 Path Aware Congestion Control
 Rapid Fault Detection in High-Performance AI Networks
 	
-<DT><A HREF="https://docs.nvidia.com/networking/display/connectx5en/specifications">MCX516A-CDAT</A>
-68.90mm x 142.24 mm, 29.0W
 
 
 ### FPGA
