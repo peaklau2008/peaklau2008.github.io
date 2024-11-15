@@ -570,6 +570,25 @@ Path Aware Congestion Control
 Rapid Fault Detection in High-Performance AI Networks
 	
 
+<DT><A HREF="https://www.yunsilicon.com/#/productInformation">云脉芯联metaConnect-200</A>
+Adapter Card Size: 167.65mmx 68.90mm
+Ethernet: 2x100GbE
+Interface Type: QSFP28/56	
+Host Interface: PCIe 4.0 x16
+RoCEv2： 可编程拥塞控制算法
+虚拟化能力：SRIOV
+存储： 支持百万级IOPS存储读写，支持多路径冗余备份
+
+<DT><A HREF="https://www.yusur.tech/product/flexflow/flexflow2200r">中科驭数FLEXFLOW®-2200R RDMA 网络DPU卡</A>
+Adapter Card Size: 167.65mmx 68.90mm
+Ethernet: 2x100GbE
+Interface Type: QSFP28
+Host Interface: PCIe 3.0 x16
+RoCEv2： 可编程拥塞控制算法
+虚拟化能力：SRIOV
+存储： NVME over RDMA
+
+
 
 ### FPGA
 
