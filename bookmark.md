@@ -529,13 +529,28 @@ PCIe 4.0 x16
 ### RNIC
 
 <DT><A HREF="https://docs.nvidia.com/networking/display/connectx7vpi">NVIDIA Mellanox MCX715105AS-WEAT ConnectX®-7</A>
-Adapter Card Size（W×D）: 68.90mm x 167.65 mm
+Adapter Card Size: 167.65mmx 68.90mm
 Ethernet: 1x400GbE
 Interface Type: QSFP112	
 Host Interface: PCIe 5.0 x16
 
+<A HREF="https://docs.nvidia.com/networking/display/nvidia-connectx-7-adapter-cards-user-manual.pdf">Ethernet Protocols supported by the electrical interface</A>
+400GAUI-4 C2M, 400GBASE-CR4 , 200GAUI-2 C2M, 200GAUI-4 C2M, 200GBASE-CR4, 100GAUI-2 C2M, 100GAUI-1 C2M, 100GBASE-CR4, 100GBASE-CR2, 100GBASE-CR1, 50GAUI-2 C2M, 50GAUI-1 C2M, 50GBASE-CR, 50GBASE-R2 , 40GBASE-CR4, 40GBASE-R2, 25GBASE-R, 10GBASE-R, 10GBASECX4, 1000BASE-CX, CAUI-4 C2M, 25GAUI C2M,XLAUI C2M , XLPPI, SFI
+
+
+<DT><A HREF="https://docs.nvidia.com/networking/display/connectx6vpi">NVIDIA Mellanox MCX653105A-HDAT ConnectX®-6</A>
+Adapter Card Size: 167.65mmx 68.90mm
+Ethernet: 1x200GbE
+Interface Type: QSFP56	
+Host Interface: PCIe 4.0 x16
+
+<A HREF="https://docs.nvidia.com/nvidia-connectx-6-infiniband-ethernet-adapter-cards-user-manual.pdf">Ethernet Protocols supported by the electrical interface</A>
+200GBASE-CR4, 200GBASE-KR4, 200GBASE-SR4, 100GBASE-CR4, 100GBASE-CR2, 100GBASE-KR4, 100GBASE-SR4, 50GBASE-R2, 50GBASE-R4, 40GBASE-CR4, 40GBASE-KR4, 40GBASE-SR4, 40GBASE-LR4, 40GBASE-ER4, 40GBASE-R2, 25GBASE-R, 20GBASE-KR2, 10GBASE-LR,10GBASE-ER, 10GBASE-CX4, 10GBASE-CR, 10GBASEKR, SGMII, 1000BASE-CX, 1000BASE-KX, 10GBASE-SR
+
+
+
 <DT><A HREF="https://docs.nvidia.com/networking/display/connectx5en">MCX516A-CDAT</A>
-Adapter Card Size（W×D）: 68.90mm x 142.24 mm
+Adapter Card Size: 142.24 mm x 68.90mm
 Ethernet: 2x100GbE
 Interface Type: QSFP28	
 Host Interface: PCIe 3.0 x16
