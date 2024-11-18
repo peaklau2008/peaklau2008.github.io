@@ -6,7 +6,8 @@
 <DT><A HREF="http://192.168.150.188/">GitLab</A>       		
 <DT><A HREF="http://192.168.150.189/">Redmine</A>       
 <DT><A HREF="https://alidocs.dingtalk.com/i/desktop">钉钉</A>
-<DT><A HREF="https://seanetnetworktech.feishu.cn/wiki/wikcnZmBJWSaPo05yJTcpSOxmRe">飞书云文档</A>
+<DT><A HREF="https://seanetnetworktech.feishu.cn/wiki/wikcnZmBJWSaPo05yJTcpSOxmRe">飞书云文档</A>	
+<DT><A HREF="https://platform.deepseek.com/">deepseek</A>	
 <DT><A HREF="https://colab.research.google.com/">Colab</A>
 <DT><A HREF="https://www.casmooc.cn/#/home">中国科学院继续教育网</A>
 <DT><A HREF="https://qiye.aliyun.com/">阿里企业邮箱</A>
