@@ -92,3 +92,12 @@ Host Interface: PCIe 3.0 x8
 Ethernet: 2x10GbE  
 With Vcinity, you don’t have to move your data—unless you want to. Our remote data access capability enables applications to compute on any data, across any distance, at any scale—with local-like performance—without paying for the time or operational penalties of moving your data first. Now, you and your entire team can interact with a single, globally-accessible dataset—regardless of where it sits across the globe or hybrid cloud.
 
+<DT><A HREF="https://docs.nvidia.com/networking/display/cx4lxen">Mellanox MCX4121A-XCHT</A>
+Ethernet: 2x10GbE
+Host Interface: PCIe 3.0 x8	
+RDMA and RDMA over Converged Ethernet (RoCE)
+NVMe over Fabric offloads 
+SR-IOV
+
+
+
