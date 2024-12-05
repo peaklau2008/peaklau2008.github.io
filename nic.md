@@ -1,4 +1,4 @@
-### RNIC
+### 100G及以上RNIC
 
 <DT><A HREF="https://docs.nvidia.com/networking/display/connectx7vpi">NVIDIA Mellanox MCX715105AS-WEAT ConnectX®-7</A>
 Adapter Card Size: 167.65mmx 68.90mm
