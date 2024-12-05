@@ -1,33 +1,33 @@
 # 100G及以上RNIC
 
-<DT><A HREF="https://docs.nvidia.com/networking/display/connectx7vpi">NVIDIA Mellanox MCX715105AS-WEAT ConnectX®-7</A>
+[Mellanox MCX715105AS-WEAT ConnectX®-7](https://docs.nvidia.com/networking/display/connectx7vpi)
 Adapter Card Size: 167.65mmx 68.90mm
 Ethernet: 1x400GbE
 Interface Type: QSFP112	
 Host Interface: PCIe 5.0 x16
 
-<A HREF="https://docs.nvidia.com/networking/display/nvidia-connectx-7-adapter-cards-user-manual.pdf">Ethernet Protocols supported by the electrical interface</A>
+[Ethernet Protocols supported by the electrical interface](https://docs.nvidia.com/networking/display/nvidia-connectx-7-adapter-cards-user-manual.pdf)
 400GAUI-4 C2M, 400GBASE-CR4 , 200GAUI-2 C2M, 200GAUI-4 C2M, 200GBASE-CR4, 100GAUI-2 C2M, 100GAUI-1 C2M, 100GBASE-CR4, 100GBASE-CR2, 100GBASE-CR1, 50GAUI-2 C2M, 50GAUI-1 C2M, 50GBASE-CR, 50GBASE-R2 , 40GBASE-CR4, 40GBASE-R2, 25GBASE-R, 10GBASE-R, 10GBASECX4, 1000BASE-CX, CAUI-4 C2M, 25GAUI C2M,XLAUI C2M , XLPPI, SFI
 
 
-<DT><A HREF="https://docs.nvidia.com/networking/display/connectx6vpi">NVIDIA Mellanox MCX653105A-HDAT ConnectX®-6</A>
+[Mellanox MCX653105A-HDAT ConnectX®-6](https://docs.nvidia.com/networking/display/connectx6vpi)
 Adapter Card Size: 167.65mmx 68.90mm
 Ethernet: 1x200GbE
 Interface Type: QSFP56	
 Host Interface: PCIe 4.0 x16
 
-<A HREF="https://docs.nvidia.com/nvidia-connectx-6-infiniband-ethernet-adapter-cards-user-manual.pdf">Ethernet Protocols supported by the electrical interface</A>
+[Ethernet Protocols supported by the electrical interface](https://docs.nvidia.com/nvidia-connectx-6-infiniband-ethernet-adapter-cards-user-manual.pdf)
 200GBASE-CR4, 200GBASE-KR4, 200GBASE-SR4, 100GBASE-CR4, 100GBASE-CR2, 100GBASE-KR4, 100GBASE-SR4, 50GBASE-R2, 50GBASE-R4, 40GBASE-CR4, 40GBASE-KR4, 40GBASE-SR4, 40GBASE-LR4, 40GBASE-ER4, 40GBASE-R2, 25GBASE-R, 20GBASE-KR2, 10GBASE-LR,10GBASE-ER, 10GBASE-CX4, 10GBASE-CR, 10GBASEKR, SGMII, 1000BASE-CX, 1000BASE-KX, 10GBASE-SR
 
 
-<DT><A HREF="https://docs.nvidia.com/networking/display/connectx5en">MCX516A-CDAT</A>
+[Mellanox MCX516A-CDAT](https://docs.nvidia.com/networking/display/connectx5en)
 Adapter Card Size: 142.24 mm x 68.90mm
 Ethernet: 2x100GbE
 Interface Type: QSFP28	
 Host Interface: PCIe 3.0 x16
 
 
-<DT><A HREF="https://www.amd.com/content/dam/amd/en/documents/pensando-technical-docs/product-briefs/pensando-pollara-400-product-brief.pdf">AMD Pollara 400</A>
+[AMD Pollara 400](https://www.amd.com/content/dam/amd/en/documents/pensando-technical-docs/product-briefs/pensando-pollara-400-product-brief.pdf)
 400 Gbps
 QSFP112 (NRZ/PAM4 Serdes)
 Half-height, half-length (HHHL)
@@ -40,7 +40,7 @@ Path Aware Congestion Control
 Rapid Fault Detection in High-Performance AI Networks
 	
 
-<DT><A HREF="https://www.yunsilicon.com/#/productInformation">云脉芯联metaConnect-200</A>
+[云脉芯联metaConnect-200](https://www.yunsilicon.com/#/productInformation)
 Adapter Card Size: 167.65mmx 68.90mm
 Ethernet: 2x100GbE
 Interface Type: QSFP28/56	
@@ -49,7 +49,7 @@ RoCEv2： 可编程拥塞控制算法
 虚拟化能力：SRIOV
 存储： 支持百万级IOPS存储读写，支持多路径冗余备份
 
-<DT><A HREF="https://www.yusur.tech/product/flexflow/flexflow2200r">中科驭数FLEXFLOW®-2200R RDMA 网络DPU卡</A>
+[中科驭数FLEXFLOW®-2200R RDMA 网络DPU卡](https://www.yusur.tech/product/flexflow/flexflow2200r)
 Adapter Card Size: 167.65mmx 68.90mm
 Ethernet: 2x100GbE
 Interface Type: QSFP28
@@ -60,10 +60,7 @@ RoCEv2： 可编程拥塞控制算法
 
 
 ---
-<br/>
-<br/>
-<br/>
----
+
 
 # 10G卡
 
