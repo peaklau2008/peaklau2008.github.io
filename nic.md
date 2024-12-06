@@ -1,10 +1,10 @@
 # 100G及以上RNIC
 
-[Mellanox MCX715105AS-WEAT ConnectX®-7](https://docs.nvidia.com/networking/display/connectx7vpi)
-Adapter Card Size: 167.65mmx 68.90mm
-Ethernet: 1x400GbE
-Interface Type: QSFP112	
-Host Interface: PCIe 5.0 x16
+[Mellanox MCX715105AS-WEAT ConnectX®-7](https://docs.nvidia.com/networking/display/connectx7vpi)  
+Adapter Card Size: 167.65mmx 68.90mm  
+Ethernet: 1x400GbE  
+Interface Type: QSFP112  
+Host Interface: PCIe 5.0 x16  
 
 [Ethernet Protocols supported by the electrical interface](https://docs.nvidia.com/networking/display/nvidia-connectx-7-adapter-cards-user-manual.pdf)
 400GAUI-4 C2M, 400GBASE-CR4 , 200GAUI-2 C2M, 200GAUI-4 C2M, 200GBASE-CR4, 100GAUI-2 C2M, 100GAUI-1 C2M, 100GBASE-CR4, 100GBASE-CR2, 100GBASE-CR1, 50GAUI-2 C2M, 50GAUI-1 C2M, 50GBASE-CR, 50GBASE-R2 , 40GBASE-CR4, 40GBASE-R2, 25GBASE-R, 10GBASE-R, 10GBASECX4, 1000BASE-CX, CAUI-4 C2M, 25GAUI C2M,XLAUI C2M , XLPPI, SFI
