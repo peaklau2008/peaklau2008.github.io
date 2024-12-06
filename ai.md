@@ -3,9 +3,9 @@
 ## AI Server
 
 
-[GPU Servers | Supermicro](https://www.supermicro.com/en/products/gpu)  
+[Supermicro GPU Servers](https://www.supermicro.com/en/products/gpu)  
 
-[GPU Cloud, Clusters, Servers, Workstations | Lambda](https://lambdalabs.com/)  
+[Lambda GPU Cloud, Clusters, Servers, Workstations ](https://lambdalabs.com/)  
 
 [浪潮NF5468M5]()  
 8xPCle 3.0 FHFLDW, 4xPCle 3.0 FHHLSW  
