@@ -434,6 +434,12 @@ Intel® Pentium® D-1517
 [星融元X308P-48Y-T](https://asterfusion.com/product/x3-t/)  
 48 x 25GE SFP28, 8 x 100GE/40GE QSFP28/QSFP+  
 
+[华为CloudEngine XH16800](https://e.huawei.com/cn/products/switches/data-center-switches/xh16800)  
+接口板(-J2 系列)  
+XH-L36DQ2CQJ2 36 端口 400GE，2 端囗 100GE 以太网光接囗板(XHL-J2,QSFP-DD,QSFP28)
+XH-L40DQJ2 40 端口 400GE 以太网光接口板(XHL-J2,QSFP-DD)  
+XH-L48CQJ2  48 端口 100GE 以太网光接口板(XHL-J2,QSFP28)  
+
 
 
 
