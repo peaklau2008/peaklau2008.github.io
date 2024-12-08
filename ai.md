@@ -436,9 +436,21 @@ Intel® Pentium® D-1517
 
 [华为CloudEngine XH16800](https://e.huawei.com/cn/products/switches/data-center-switches/xh16800)  
 接口板(-J2 系列)  
-XH-L36DQ2CQJ2 36 端口 400GE，2 端囗 100GE 以太网光接囗板(XHL-J2,QSFP-DD,QSFP28)
+XH-L36DQ2CQJ2 36 端口 400GE，2 端囗 100GE 以太网光接囗板(XHL-J2,QSFP-DD,QSFP28)  
 XH-L40DQJ2 40 端口 400GE 以太网光接口板(XHL-J2,QSFP-DD)  
 XH-L48CQJ2  48 端口 100GE 以太网光接口板(XHL-J2,QSFP28)  
+
+
+[新华三S12500AI-18D48B-NCPK](https://www.h3c.com/cn/Products_And_Solution/InterConnect/Products/Switches/Products/Data_Center_Switch/Core_Switch/S12500/S12500AI/)  
+440×760×88.1  
+48x 200GE QSFP56端口  
+18x 400GE QSFPDD端口  
+支持VxLAN Mapping*支持RDMA无损网络RoCEv1/RoCEv2  
+支持BUFFER可视化  
+支持DCBX、PFC、ETS、ECN  
+支持iNOF、IPCC*  
+支持智能识别流量模型，动态调节AI ECN门限  
+
 
 
 
