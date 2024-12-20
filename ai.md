@@ -111,8 +111,19 @@ PCIe 5.0 x16
 7nm  
 32GB HBM2E  
 512 TFLOPS@BF16  
-1024 TFLOPS@int8  
+1024 TFLOPS@INT8  
 300W	
+
+[壁仞BR106](https://mp.weixin.qq.com/s/7FuHbhKFcRf1GGRv5Focig)  
+7nm  
+85 TFLOPS@TF16  
+170 TFLOPS@BF16  
+340 TFLOPS@INT8  
+32GB HBM2E 819GB/s  
+PCIe 5.0 x8  
+400W	
+
+
 
 
 
@@ -364,6 +375,17 @@ RoCEv2： 可编程拥塞控制算法
 
 ## AI Switch
  
+[xsightlabs X2](https://xsightlabs.com/wp-content/uploads/2024/09/X2-PB-Public.pdf)  
+1. 12.8 Tbps full-duplex, non-blocking switching optimized for data centers, cloud, and AI networks.
+2. 100 Gbps PAM4 LR SerDes supporting retimer-less designs.   
+3. Application Optimized Switching architecture powered by a programmable packet header processor enabling high performance, low latency and low power.
+4. X-PNDTM: Elastic resource allocation of control tables maximizing adaptation to application needs.
+5. Fully shared packet buffer for incast burst handling.
+6. Low latency with cut-through — 700ns first-bit-in-first-bit-out for typical data center applications.
+7. X-IQTM: UEC-ready programmable congestion measurement and signalling to facilitate dynamic load balancing and fast failure detection and recovery.
+8. X-LBTM: UEC-ready weighted congestion-aware dynamic load balancing for reducing tail latency.
+9. X-FCTM: Incast tolerance mechanism with HoL Blocking prevention.
+
 
 [bcm78900-series(5nm)](https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm78900-series)  
 64 × 800GbE, 128 × 400GbE, or 256 × 200GbE ports  
