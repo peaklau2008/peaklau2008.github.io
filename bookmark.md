@@ -139,8 +139,8 @@
 ## AI Server
 
 
-[GPU Servers | Supermicro](https://www.supermicro.com/en/products/gpu)   
-[GPU Cloud, Clusters, Servers, Workstations | Lambda](https://lambdalabs.com/)   
+[GPU Servers Supermicro](https://www.supermicro.com/en/products/gpu)   
+[GPU Cloud, Clusters, Servers, Workstations Lambda](https://lambdalabs.com/)   
 
 <br>
 
