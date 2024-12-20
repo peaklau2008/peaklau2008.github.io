@@ -118,9 +118,38 @@ PCIe 5.0 x16
 
 [天数智芯天垓100(7nm)(兼容CUDA)](https://www.iluvatar.com/productDetails?fullCode=cpjs-yj-xlxl-tg100)  
 7nm, 240亿晶体管  
-147 TFLOPS  
+37 TFLOPS@FP32  
+147 TFLOPS@FP16  
+295 TFLOPS@INT8  
 32GB HBM2, 1.2TB/sec  
 PCIe® 4.0 x16  
+250W  
+
+[天数智芯天垓150(兼容CUDA)](https://mp.weixin.qq.com/s/7FuHbhKFcRf1GGRv5Focig)  
+45 TFLOPS@FP32  
+190 TFLOPS@FP16  
+380 TFLOPS@INT8  
+64GB HBM2e, 1.2TB/sec  
+PCIe® 4.0 x16  
+350W  
+
+[海光K100(兼容CUDA)](https://mp.weixin.qq.com/s/7FuHbhKFcRf1GGRv5Focig)  
+24.5 TFLOPS@FP64	
+24.5 TFLOPS@FP32	
+100 TFLOPS@FP16  
+200 TFLOPS@INT8  
+64GB GDDR6  
+PCIe® 4.0 x16  
+300W	
+
+
+[海光K100_AI(兼容CUDA)](https://mp.weixin.qq.com/s/7FuHbhKFcRf1GGRv5Focig)  
+49/98 TFLOPS@FP32/TF32	
+196 TFLOPS@FP16/BF16  
+392 TFLOPS@INT8  
+64GB GDDR6  
+PCIe® 4.0 x16  
+350W
 
 
 [海光DCU100(兼容CUDA)](https://www.vzkoo.com/read/2024082266eda1c2a51eaf56d9404032.html)  
@@ -129,6 +158,16 @@ PCIe® 4.0 x16
 12 TFLOPS@FP32  
 32GB HBM2  
 PCIe® 4.0 x16  
+350W	
+
+
+[沐曦羲云C500](https://www.vzkoo.com/read/2024082266eda1c2a51eaf56d9404032.html)  
+15 TFLOPS@FP32	
+120 TFLOPS@TF32  
+240 TFLOPS@FP16/BF16  
+480 TFLOPS@INT8  
+64GB HBM2e  
+PCIe® 5.0 x16  
 350W	
 
 	
@@ -140,6 +179,8 @@ PCIe 4.0 x16
 
 
 [摩尔线程MTT S4000](https://www.mthreads.com/product/S4000)   
+25 TFLOPS@FP32  
+50 TFLOPS@TF32
 100 TFLOPS@FP16  
 200 TOPS@INT8  
 48 GB, 768 GB/s  
