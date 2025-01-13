@@ -524,20 +524,31 @@ XH-L48CQJ2  48 端口 100GE 以太网光接口板(XHL-J2,QSFP28)
 
 ## 线缆
 
-### [1m (3ft) NVIDIA/Mellanox Compatible 400G QSFP-DD to 4 x 100G QSFP28 Ethernet Active Direct Attach Copper Breakout Cable](https://www.fs.com/products/139800.html?attribute=68263&id=1752199)
+NRZ: non-return to zero  
+
+PAM4: pulse-amplitude modulation 4-level(4 级脉冲幅度调制)  
+
+比特率   
+使用 NRZ 机制的传输将具有相同的波特率和比特率，因为一个符号可以携带一位。28Gbps（千兆每秒）比特率相当于 28GBdps（千兆每秒）波特率。同时，由于 PAM4 每个符号携带 2 位，56Gbps PAM4 将具有 28GBdps 的线路传输。因此，PAM4 将给定波特率的比特率比 NRZ 提高一倍，从而为 400G 等高速光传输带来更高的效率。更具体地说，400 Gbps 以太网接口可以使用 PAM4 调制实现 8 个 50Gbps 通道或 4 个 100Gbps 通道。
+
+信噪比 (‌Signal to Noise Ratio, SNR) 和误码率 (Bit Error Ratio, BER)  
+PAM4 的眼高是 NRZ 的 1/3，导致 PAM4 将 SNR（信噪比）提高 -9.54 dB（链路预算惩罚），这会影响信号质量并引入额外的高速信号的限制。垂直眼图开度小 33% 使PAM4 信号对噪声更敏感，从而导致更高的误码率。然而，PAM4 之所以成为可能，是因为前向纠错 (FEC) 可以帮助链接系统实现所需的 BER。
+
+
+[1m (3ft) NVIDIA/Mellanox Compatible 400G QSFP-DD to 4 x 100G QSFP28 Ethernet Active Direct Attach Copper Breakout Cable](https://www.fs.com/products/139800.html?attribute=68263&id=1752199)
 QDD-400G4Q4xNAC01
 US$2,499.00
 53.125Gbps (PAM4)
 25.78125Gbps (NRZ)
 
-### [1m (3ft) NVIDIA/Mellanox MCP7H60-W001R30 Compatible 400G QSFP-DD to 2 x 200G QSFP56 Ethernet Passive Direct Attach Copper Breakout Cable](https://www.fs.com/products/101799.html?now_cid=3659)
+[1m (3ft) NVIDIA/Mellanox MCP7H60-W001R30 Compatible 400G QSFP-DD to 2 x 200G QSFP56 Ethernet Passive Direct Attach Copper Breakout Cable](https://www.fs.com/products/101799.html?now_cid=3659)
 US$109.00
 
 
-### [PERCKO IB线缆AOC光纤堆叠线50G/200G/400G直连有源QSFP56/QSFP-DD带光模块Mellanox迈络思连接线可定制 400G转100G QSFP-DD转4*100G 1米](https://item.jd.com/10091923522838.html#crumb-wrap)
+[PERCKO IB线缆AOC光纤堆叠线50G/200G/400G直连有源QSFP56/QSFP-DD带光模块Mellanox迈络思连接线可定制 400G转100G QSFP-DD转4*100G 1米](https://item.jd.com/10091923522838.html#crumb-wrap)
 ￥18768.00 
 
-### [PERCKO IB线缆AOC光纤堆叠线50G/200G/400G直连有源QSFP56/QSFP-DD带光模块Mellanox迈络思连接线可定制 400G转200G QSFP-DD转2*200G 1米](https://item.jd.com/10091923522830.html#crumb-wrap)
+[PERCKO IB线缆AOC光纤堆叠线50G/200G/400G直连有源QSFP56/QSFP-DD带光模块Mellanox迈络思连接线可定制 400G转200G QSFP-DD转2*200G 1米](https://item.jd.com/10091923522830.html#crumb-wrap)
 ￥10848.00
 
 
