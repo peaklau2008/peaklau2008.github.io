@@ -468,6 +468,13 @@ Intel® Pentium® D-1517 4-Core 1.6GHz
 8GB SO-DIMM  
 128GB M.2 SSD  
 
+
+[MPT128](https://www.mestechs.com/barefoot/)    
+32 x 400G QSFP-DD switch ports with  Tofino2 BFN-T20-128Q  
+Intel® Pentium® D-1517 4-Core 1.6GHz  
+8GB SO-DIMM  
+128GB M.2 SSD  
+
 [AS9716-32D](https://www.edge-core.com/product/dcs510/)  
 32 x QSFP-DD 400 GbE  
 BCM56980 Tomahawk 3  
@@ -514,6 +521,24 @@ XH-L48CQJ2  48 端口 100GE 以太网光接口板(XHL-J2,QSFP28)
 支持iNOF、IPCC*  
 支持智能识别流量模型，动态调节AI ECN门限  
 
+
+## 线缆
+
+### [1m (3ft) NVIDIA/Mellanox Compatible 400G QSFP-DD to 4 x 100G QSFP28 Ethernet Active Direct Attach Copper Breakout Cable](https://www.fs.com/products/139800.html?attribute=68263&id=1752199)
+QDD-400G4Q4xNAC01
+US$2,499.00
+53.125Gbps (PAM4)
+25.78125Gbps (NRZ)
+
+### [1m (3ft) NVIDIA/Mellanox MCP7H60-W001R30 Compatible 400G QSFP-DD to 2 x 200G QSFP56 Ethernet Passive Direct Attach Copper Breakout Cable](https://www.fs.com/products/101799.html?now_cid=3659)
+US$109.00
+
+
+### [PERCKO IB线缆AOC光纤堆叠线50G/200G/400G直连有源QSFP56/QSFP-DD带光模块Mellanox迈络思连接线可定制 400G转100G QSFP-DD转4*100G 1米](https://item.jd.com/10091923522838.html#crumb-wrap)
+￥18768.00 
+
+### [PERCKO IB线缆AOC光纤堆叠线50G/200G/400G直连有源QSFP56/QSFP-DD带光模块Mellanox迈络思连接线可定制 400G转200G QSFP-DD转2*200G 1米](https://item.jd.com/10091923522830.html#crumb-wrap)
+￥10848.00
 
 
 
