@@ -536,20 +536,20 @@ PAM4 的眼高是 NRZ 的 1/3，导致 PAM4 将 SNR（信噪比）提高 -9.54 d
 
 
 [1m (3ft) NVIDIA/Mellanox Compatible 400G QSFP-DD to 4 x 100G QSFP28 Ethernet Active Direct Attach Copper Breakout Cable](https://www.fs.com/products/139800.html?attribute=68263&id=1752199)
-QDD-400G4Q4xNAC01
-US$2,499.00
-53.125Gbps (PAM4)
-25.78125Gbps (NRZ)
+QDD-400G4Q4xNAC01  
+US$2,499.00  
+53.125Gbps (PAM4)  
+25.78125Gbps (NRZ)  
 
 [1m (3ft) NVIDIA/Mellanox MCP7H60-W001R30 Compatible 400G QSFP-DD to 2 x 200G QSFP56 Ethernet Passive Direct Attach Copper Breakout Cable](https://www.fs.com/products/101799.html?now_cid=3659)
-US$109.00
+US$109.00  
 
 
 [PERCKO IB线缆AOC光纤堆叠线50G/200G/400G直连有源QSFP56/QSFP-DD带光模块Mellanox迈络思连接线可定制 400G转100G QSFP-DD转4*100G 1米](https://item.jd.com/10091923522838.html#crumb-wrap)
 ￥18768.00 
 
 [PERCKO IB线缆AOC光纤堆叠线50G/200G/400G直连有源QSFP56/QSFP-DD带光模块Mellanox迈络思连接线可定制 400G转200G QSFP-DD转2*200G 1米](https://item.jd.com/10091923522830.html#crumb-wrap)
-￥10848.00
+￥10848.00  
 
 
 
