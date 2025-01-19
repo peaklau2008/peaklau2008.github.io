@@ -19,6 +19,14 @@ BIS为了应对该等技术规避行为，在1017规则中调整了高性能芯�
 [H200(4nm)](https://resources.nvidia.com/en-us-data-center-overview-mc/en-us-data-center-overview/hpc-datasheet-sc23-h200)  
 TSMC 4N process	  
 1,979 TFLOPS  
+34 TFLOPS@FP64  
+67 TFLOPS@FP64 Tensor Core
+67 TFLOPS@FP32
+989 TFLOPS@TF32 Tensor Core*
+1,979 TFLOPS@BFLOAT16 Tensor Core*
+1,979 TFLOPS@FP16 Tensor Core*
+3,958 TFLOPS@FP8 Tensor Core*
+3,958 TFLOPS@INT8 Tensor Core*
 141GB HBM3e, 4.8TB/s  
 NVIDIA NVLink™: 900GB/s  
 PCIe Gen5  
@@ -28,6 +36,14 @@ PCIe Gen5
 [H100(4nm)](https://resources.nvidia.com/en-us-gpu-resources/h100-datasheet-24306?lx=CPwSfP)  
 TSMC 4N process, 80 billion transistors, a die size of 814 mm2  
 1,979 TFLOPS  
+34 TFLOPS@FP64  
+67 TFLOPS@FP64 Tensor Core
+67 TFLOPS@FP32
+989 TFLOPS@TF32 Tensor Core*
+1,979 TFLOPS@BFLOAT16 Tensor Core*
+1,979 TFLOPS@FP16 Tensor Core*
+3,958 TFLOPS@FP8 Tensor Core*
+3,958 TFLOPS@INT8 Tensor Core*
 80GB HBM3, 3.35TB/s  
 NVIDIA NVLink™: 900GB/s	  
 PCIe Gen 5	 
@@ -40,6 +56,7 @@ TSMC’s 7nm N7, 54.2 billion transistors with a die size of 826 mm2.
 64 FP32 CUDA Cores/SM, 6912 FP32 CUDA Cores per GPU  
 4 Third-generation Tensor Cores/SM, 432 Third-generation Tensor Cores per GPU  
 5 HBM2 stacks, 10 512-bit Memory Controllers	 
+The A100 introduces third-generation Tensor Cores that support TF32  
 9.7 TFLOPS@FP64  
 19.5 TFLOPS@FP64 Tensor Core	 
 19.5 TFLOPS@FP32  
@@ -53,17 +70,27 @@ PCIe Gen4
 
 
 [V100(12nm)](https://www.nvidia.com/en-us/data-center/v100/)  
+5120 CUDA cores, 640 Tensor Cores， The V100's Tensor Cores primarily support FP16 precision.  
 TSMC 12 nm FFN 21,100 million 815 mm²  
 7 TFLOPS@FP64  
 14 TFLOPS@FP32  
 28 TFLOPS@FP16  
+120 TFOPS@FP16 Tensor Core	
 16 GB HBM2 900 GB/s  
 PCIe Gen3	  
 250W  
 
 
 [L40S](https://resources.nvidia.com/en-us-gpu-resources/proviz-partner-l40s?lx=CPwSfP)  
+18,176 CUDA cores, 568 Tensor Cores  
 362 TFLOPS  
+91.6 TFLOPS@FP32  
+183 TFLOPS | 366 TFLOPS*@TF32  
+362 TFLOPS | 733 TFLOPS*@BFLOAT16 Tensor Core	 
+362 TFLOPS | 733 TFLOPS*@FP16 Tensor Core	 
+733 TFLOPS | 1466 TFLOPS*@FP8 Tensor Core	 
+733 TFLOPS | 1466 TFLOPS*@INT8 Tensor Core	 
+733 TFLOPS | 1466 TFLOPS*@INT4 Tensor Core	 
 48GB GDDR6, 864GB/s  
 PCIe Gen4	 
 350W  
@@ -231,6 +258,42 @@ PCIe 4.0 x16
 
 [Lambda GPU Cloud, Clusters, Servers, Workstations ](https://lambdalabs.com/)  
 
+[Lambda Scalar with NVIDIA H200 NVL GPUs](https://lambdalabs.com/scalar-h200-waitlist)
+* 4U
+* 8 GPUs from NVIDIA  
+GPUs
+  1. NVIDIA H200 NVL: 141 GB of HBM3e, 14,592 CUDA cores, 456 Tensor Cores, PCIe 5.0 x16
+  2. NVIDIA H100 NVL: 94 GB of HBM3, 14,592 CUDA cores, 456 Tensor Cores, PCIe 5.0 x16
+  3. NVIDIA L40S: 48 GB of GDDR6, 18,176 CUDA cores, 568 Tensor Cores, PCIe 4.0 x16
+  4. NVIDIA RTX 6000 Ada Generation: 48 GB of GDDR6, 18,176 CUDA cores, 568 Tensor Cores, PCIe 4.0 x16
+  5. NVIDIA RTX 5000 Ada Generation: 32 GB of GDDR6, 12,800 CUDA cores, 400 Tensor Cores, PCIe 4.0 x16
+  6. NVIDIA RTX 4500 Ada Generation: 24 GB of GDDR6, 7,680 CUDA cores, 240 Tensor Cores, PCIe 4.0 x16
+  7. NVIDIA RTX 4000 Ada Generation: 16 GB of GDDR6, 6,144 CUDA cores, 192 Tensor Cores, PCIe 4.0 x16
+* 192 cores and 384 threads  
+  1. AMD EPYC 7004 (Genoa) Series Processors with up to 192 cores total
+  2. Intel Xeon 4th Gen (Sapphire Rapids) Scalable Processors with up to 112 cores total
+* 8192 GB of memory  
+   Up to 8 TB of 4800 MHz DDR5 ECC RAM in 32 DIMM slots
+* 491 TB of NVMe SSDs  
+   Up to 491.52 TB of storage via 16 hot-swappable U.2 NVMe SSDs...
+* Networking
+Built-in networking:  
+  1. 2 RJ45 10 Gbps BASE-T LAN ports
+  2. 1 RJ45 1 Gbps BASE-T LAN out-of-band management port
+Optional high-speed NIC. Options include:  
+  1. NVIDIA ConnectX-7 400 Gb/s NDR InfiniBand Adapter, OSFP56, PCIe 5.0 x16
+  2. NVIDIA ConnectX-7 200 Gb/s NDR200 InfiniBand Adapter, OSFP56, PCIe 5.0 x16
+  3. NVIDIA ConnectX-7 200 Gb/s NDR200 InfiniBand/VPI Adapter, QSFP112, PCIe 5.0 x16
+  4. NVIDIA ConnectX-6 200 Gb/s HDR InfiniBand/VPI Adapter, QSFP56, PCIe 4.0 x16
+  5. NVIDIA ConnectX-6 100 Gb/s HDR100 InfiniBand/VPI Adapter, 1x QSFP56, PCIe 4.0 x16
+  6. NVIDIA ConnectX-6 Dx EN 200 Gb/s Ethernet Adapter, QSFP56, PCIe 4.0 x16
+  7. NVIDIA ConnectX-6 Dx EN 100 Gb/s Ethernet Adapter, QSFP56, PCIe 4.0 x16
+  8. NVIDIA ConnectX-5 EN 100 Gb/s Ethernet Adapter, QSFP28, PCIe 3.0 x16
+
+
+
+
+
 [浪潮NF5468M5]()  
 8xPCle 3.0 FHFLDW, 4xPCle 3.0 FHHLSW  
 
@@ -350,6 +413,16 @@ In-Order Message Delivery
 Fast Loss Recover with Selective Retransmission  
 Path Aware Congestion Control  
 Rapid Fault Detection in High-Performance AI Networks  
+
+[DreamBig Mercury](https://dreambigsemi.com/mercury-ai-supernic/)
+800G AI-SuperNIC chip (Mercury) with Fully HW Offloaded RoCE v2 + UEC RDMA Engine  
+Multi-pathing and packet spraying  
+Out-of-order packet placement with in-order message delivery  
+Programmable congestion control for RoCE v2 and UEC algorithms  
+Advanced packet trimming and telemetry congestion notifications  
+Support for selective retransmission  
+Mercury provides UEC-compliant software drivers enabling GPU-to-GPU communication with exceptional throughput and minimal latency.  
+
 	
 
 [云脉芯联metaConnect-200](https://www.yunsilicon.com/#/productInformation)  
@@ -410,6 +483,88 @@ Implemented with unparalleled power efficiency in a monolithic 7nm die
 New Elephant Flow feature  
 Dynamic Load Balancing and Dynamic Group Multipathing enhance ECMP  
 New shared-buffer architecture offers 4X higher burst absorption and improved performance for ROCEv2 workloads  
+
+[NVIDIA SN5400](https://www.naddod.com/products/nvidia-networking/102423)
+Spectrum-4 based 400GbE 2U Open Ethernet switch with Cumulus Linux Authentication  
+64x QSFP-DD 400GbE | 2x SFP28 25GbE  
+25.6Tb/s  
+Packet Buffer 160MB  
+Intel x86 Xeon, Hexa-core Coffee Lake E-2276ME w/ secured-boot  
+System Memory 32G  
+Cumulus Linux  
+$ 39650.00  
+
+[NVIDIA SN5600](https://www.naddod.com/products/nvidia-networking/102424)
+Spectrum-4 based 800GbE 2U Open Ethernet switch with Cumulus Linux Authentication  
+64x OSFP 800GbE | 1x SFP28 25GbE  
+51.2Tb/s  
+Intel x86 Xeon, Hexa-core Coffee Lake E-2276ME w/ secured-boot  
+System Memory 32G  
+Cumulus Linux  
+$ 55250.00  
+
+[NVIDIA MQM9790-NS2R](https://www.naddod.com/products/nvidia-networking/102411)
+32xOSFP 64x400Gb/s  
+51.2Tb/s  
+MLNX-OS  
+System memory Single 8GB  
+M.2 SSD SATA 16GB 2242 FF  
+$ 24185.00  
+
+[NVIDIA MQM9700-NS2F](https://www.naddod.com/products/nvidia-networking/102324)
+32xOSFP 2x400Gb/s  
+51.2Tb/s  
+Latency 130ns  
+x86 Coffee Lake i3  
+System Memory 8GB  
+$ 34898.00  
+
+
+[NVIDIA MQM8790-HS2F](https://www.naddod.com/products/nvidia-networking/102389)
+Quantum HDR InfiniBand Switch, 40 x HDR QSFP56 Ports  
+40xQSFP56 200Gb/s  
+16Tb/s  
+130ns  
+x86 ComEx Broadwell D-1508  
+System Memory 8GB  
+MLNX-OS  
+$ 13120.00    
+
+
+[NVIDIA MQM8700-HS2F](https://www.naddod.com/products/nvidia-networking/102172)
+Quantum HDR InfiniBand Switch, 40 x HDR QSFP56 Ports  
+40xQSFP56 200Gb/s  
+16Tb/s  
+130ns  
+x86 ComEx Broadwell D-1508  
+System Memory 8GB  
+MLNX-OS  
+$ 15776.00  
+
+[NDD N9500-128QC](https://www.naddod.com/products/102323.html)
+128x400G QSFP112  
+Tomahawk 5/Broadcom BCM78900(5nm)  
+51.2 Tbps  
+Packet Buffer 165.2MB  
+Intel Ice lake-D 1734NT (8Core)/1713NTE (4Core)    
+DDR4：8GB x 2 SO-DIMM  
+$ 37399.00  
+
+
+
+[NDD N9200-64DC](https://www.naddod.com/products/102532.html)
+64x400G QSFP-DD  
+Tomahawk 4/Broadcom BCM56990  
+25.6Tbps  
+Packet Buffer 113.66 MB  
+Intel® Xeon® Processor D-1548 8-Core 2.0 GHz  
+DDR4: 16GB x 2 SO-DIMM  
+$ 28699.00  
+
+
+
+
+
 
 	
 [Broadcom Tomahawk 5 Minipack3]()  
