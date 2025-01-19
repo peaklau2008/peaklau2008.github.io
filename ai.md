@@ -20,14 +20,14 @@ BIS为了应对该等技术规避行为，在1017规则中调整了高性能芯�
 TSMC 4N process	  
 1,979 TFLOPS  
 34 TFLOPS@FP64  
-67 TFLOPS@FP64 Tensor Core
-67 TFLOPS@FP32
-989 TFLOPS@TF32 Tensor Core*
-1,979 TFLOPS@BFLOAT16 Tensor Core*
-1,979 TFLOPS@FP16 Tensor Core*
-3,958 TFLOPS@FP8 Tensor Core*
-3,958 TFLOPS@INT8 Tensor Core*
-141GB HBM3e, 4.8TB/s  
+67 TFLOPS@FP64 Tensor Core  
+67 TFLOPS@FP32  
+989 TFLOPS@TF32 Tensor Core*  
+1,979 TFLOPS@BFLOAT16 Tensor Core*  
+1,979 TFLOPS@FP16 Tensor Core*  
+3,958 TFLOPS@FP8 Tensor Core*  
+3,958 TFLOPS@INT8 Tensor Core*  
+141GB HBM3e, 4.8TB/s   
 NVIDIA NVLink™: 900GB/s  
 PCIe Gen5  
 700W  
@@ -37,14 +37,14 @@ PCIe Gen5
 TSMC 4N process, 80 billion transistors, a die size of 814 mm2  
 1,979 TFLOPS  
 34 TFLOPS@FP64  
-67 TFLOPS@FP64 Tensor Core
-67 TFLOPS@FP32
-989 TFLOPS@TF32 Tensor Core*
-1,979 TFLOPS@BFLOAT16 Tensor Core*
-1,979 TFLOPS@FP16 Tensor Core*
-3,958 TFLOPS@FP8 Tensor Core*
-3,958 TFLOPS@INT8 Tensor Core*
-80GB HBM3, 3.35TB/s  
+67 TFLOPS@FP64 Tensor Core  
+67 TFLOPS@FP32  
+989 TFLOPS@TF32 Tensor Core*  
+1,979 TFLOPS@BFLOAT16 Tensor Core*  
+1,979 TFLOPS@FP16 Tensor Core*  
+3,958 TFLOPS@FP8 Tensor Core*  
+3,958 TFLOPS@INT8 Tensor Core*  
+80GB HBM3, 3.35TB/s   
 NVIDIA NVLink™: 900GB/s	  
 PCIe Gen 5	 
 700W	
@@ -276,11 +276,10 @@ GPUs
    Up to 8 TB of 4800 MHz DDR5 ECC RAM in 32 DIMM slots
 * 491 TB of NVMe SSDs  
    Up to 491.52 TB of storage via 16 hot-swappable U.2 NVMe SSDs...
-* Networking
-Built-in networking:  
+* Built-in networking:  
   1. 2 RJ45 10 Gbps BASE-T LAN ports
   2. 1 RJ45 1 Gbps BASE-T LAN out-of-band management port
-Optional high-speed NIC. Options include:  
+* Optional high-speed NIC. Options include:  
   1. NVIDIA ConnectX-7 400 Gb/s NDR InfiniBand Adapter, OSFP56, PCIe 5.0 x16
   2. NVIDIA ConnectX-7 200 Gb/s NDR200 InfiniBand Adapter, OSFP56, PCIe 5.0 x16
   3. NVIDIA ConnectX-7 200 Gb/s NDR200 InfiniBand/VPI Adapter, QSFP112, PCIe 5.0 x16
