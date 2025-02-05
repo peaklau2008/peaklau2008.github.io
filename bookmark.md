@@ -5,6 +5,8 @@
 [RAGFlow](http://172.27.250.100:38080/)  
 [GitLab](http://192.168.150.188/)  
 [Redmine](http://192.168.150.189/)  
+[公网Redmine](http://8.140.195.231/redmine)  
+[Pub Redmine](http://8.140.195.231/redmine)  
 [钉钉](https://alidocs.dingtalk.com/i/desktop)  
 [飞书云文档](https://seanetnetworktech.feishu.cn/wiki/wikcnZmBJWSaPo05yJTcpSOxmRe)  
 [deepseek](https://platform.deepseek.com/)  

@@ -58,7 +58,7 @@ TSMC’s 7nm N7, 54.2 billion transistors with a die size of 826 mm2.
 5 HBM2 stacks, 10 512-bit Memory Controllers	 
 The A100 introduces third-generation Tensor Cores that support TF32  
 9.7 TFLOPS@FP64  
-19.5 TFLOPS@FP64 Tensor Core	 
+19.5 TFLOPS@FP64 Tensor Core  
 19.5 TFLOPS@FP32  
 156 TFLOPS | 312 TFLOPS@TF32  
 312 TFLOPS | 624 TFLOPS@BFLOAT16 Tensor Core  
