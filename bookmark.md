@@ -169,6 +169,9 @@
 [凤凰架构：构筑可靠的大型分布式系统 | 凤凰架构](https://icyfenix.cn/)   
 [2022 OpenStack User Survey](https://www.openstack.org/user-survey/survey-2022/landing?BackURL=/user-survey/survey-2022/)   
 
+## Blog
+
+[李博杰个人博客](https://01.me/)   
 
 ## Company
 
