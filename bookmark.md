@@ -45,7 +45,8 @@
 
 [RFC 1925 - The Twelve Networking Truths](https://datatracker.ietf.org/doc/html/rfc1925)  
 
-
+## CHIP
+[Zero to ASIC Course](https://www.zerotoasiccourse.com/)
 
 ## FPGA
 

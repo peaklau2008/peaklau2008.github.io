@@ -68,6 +68,7 @@ https://github.com/corundum/verilog-pcie
 
 1. 开源Riscv学习
 https://github.com/SpinalHDL/VexRiscv
+https://github.com/YosysHQ/picorv32
 
 1. 开源RDMA网卡学习
 https://github.com/Xilinx/RecoNIC
