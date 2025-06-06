@@ -5,6 +5,7 @@
 [RAGFlow](http://172.27.250.100:38080/)  
 [GitLab](http://192.168.150.188/)  
 [jenkins](http://192.168.101.2:8080/)  
+[zabbix](http://192.168.101.2:80/)  
 [Redmine](http://192.168.150.189/)  
 [Pub Redmine](http://8.140.195.231/redmine)  
 [钉钉](https://alidocs.dingtalk.com/i/desktop)  
