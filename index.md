@@ -47,6 +47,29 @@
 
 
 
+# 推荐的网络仿真工具
+
+1. NS3 
+https://www.nsnam.org/
+
+2. NS3 simulator for RDMA over Converged Ethernet v2 (RoCEv2) 
+https://github.com/bobzhuyb/ns3-rdma
+
+3. HPCC 
+https://github.com/alibaba-edu/High-Precision-Congestion-Control
+
+4. Ad Hoc On-Demand Distance Vector 
+https://www.nsnam.org/docs/models/html/dsdv.html
+
+5. Optimized Link State Routing (OLSR) 
+https://www.nsnam.org/docs/models/html/olsr.html
+
+6. DSDV Routing 
+https://www.nsnam.org/docs/models/html/dsdv.html
+
+7. Dynamic Source Routing (DSR) 
+https://www.nsnam.org/docs/models/html/dsr.html
+
 
 
 # 推荐的FPGA学习资料
