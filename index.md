@@ -75,19 +75,19 @@ https://www.nsnam.org/docs/models/html/dsr.html
 # 推荐的FPGA学习资料
 
 1. AXIS总线常见工具和仿真例
-https://github.com/corundum/verilog-axis
+https://github.com/alexforencich/verilog-axis
 
 2. AXI总线常见工具和仿真例
-https://github.com/corundum/cocotbext-axi
+https://github.com/alexforencich/verilog-axi
 
 3. 以太网数据包工具和仿真例
-https://github.com/corundum/verilog-ethernet
+https://github.com/alexforencich/verilog-ethernet
 
 4. PCIe工具和仿真例
 https://github.com/corundum/verilog-pcie
 
 5. 开源FPGA网卡学习
-https://github.com/corundum/verilog-pcie
+https://github.com/corundum/corundum
 
 6. 开源Riscv学习
 https://github.com/SpinalHDL/VexRiscv
