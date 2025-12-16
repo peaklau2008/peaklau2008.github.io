@@ -3,10 +3,10 @@
 ## IT
 
 [Redmine](http://8.140.195.231/redmine)  
-[jenkins](http://192.168.101.2:8080/)
-[zabbix](http://192.168.101.2:80/)
-[GitLab](http://192.168.150.188/)
-[bigmodel](https://bigmodel.cn)
+[jenkins](http://192.168.101.2:8080/) 
+[zabbix](http://192.168.101.2:80/) 
+[GitLab](http://192.168.150.188/) 
+[bigmodel](https://bigmodel.cn) 
 [deepseek](https://platform.deepseek.com/)  
 [Colab](https://colab.research.google.com/)  
 
