@@ -1,17 +1,22 @@
+
+
 ## IT
 
-
-[Latex](http://172.27.250.100:28080/)   
-[RAGFlow](http://172.27.250.100:38080/)  
-[GitLab](http://192.168.150.188/)  
-[jenkins](http://192.168.101.2:8080/)  
-[zabbix](http://192.168.101.2:80/)  
-[Redmine](http://192.168.150.189/)  
-[Pub Redmine](http://8.140.195.231/redmine)  
-[钉钉](https://alidocs.dingtalk.com/i/desktop)  
-[飞书云文档](https://seanetnetworktech.feishu.cn/wiki/wikcnZmBJWSaPo05yJTcpSOxmRe)  
+[Redmine](http://8.140.195.231/redmine)  
+[jenkins](http://192.168.101.2:8080/)
+[zabbix](http://192.168.101.2:80/)
+[GitLab](http://192.168.150.188/)
+[bigmodel](https://bigmodel.cn)
 [deepseek](https://platform.deepseek.com/)  
 [Colab](https://colab.research.google.com/)  
+
+ 
+[Latex](http://172.27.250.100:28080/)   
+[RAGFlow](http://172.27.250.100:38080/)  
+[Redmine](http://192.168.150.189/)  
+[钉钉](https://alidocs.dingtalk.com/i/desktop)  
+[飞书云文档](https://seanetnetworktech.feishu.cn/wiki/wikcnZmBJWSaPo05yJTcpSOxmRe)  
+
 [中国科学院继续教育网](https://www.casmooc.cn/#/home)  
 [阿里企业邮箱](https://qiye.aliyun.com/)  
 [中央政府采购网](http://www.zycg.gov.cn/)  
