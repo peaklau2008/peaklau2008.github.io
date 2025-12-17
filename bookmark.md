@@ -2,16 +2,16 @@
 
 ## IT
 
-[Redmine](http://8.140.195.231/redmine)   
+[redmine](http://8.140.195.231/redmine)   
+[overleaf](http://8.140.195.231:28080)   
 [jenkins](http://192.168.101.2:8080/)  
 [zabbix](http://192.168.101.2:80/)  
-[GitLab](http://192.168.150.188/)  
+[gitlab](http://192.168.150.188/)  
 [bigmodel](https://bigmodel.cn)  
 [deepseek](https://platform.deepseek.com/)  
-[Colab](https://colab.research.google.com/)  
+[colab](https://colab.research.google.com/)  
 
  
-[Latex](http://172.27.250.100:28080/)   
 [RAGFlow](http://172.27.250.100:38080/)  
 [Redmine](http://192.168.150.189/)  
 [钉钉](https://alidocs.dingtalk.com/i/desktop)  
