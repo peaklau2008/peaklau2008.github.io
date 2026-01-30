@@ -4,8 +4,8 @@
 
 [redmine](http://8.140.195.231/redmine)   
 [overleaf](http://8.140.195.231:28080)   
-[jenkins](http://192.168.101.2:8080/)  
-[zabbix](http://192.168.101.2:80/)  
+[jenkins](http://192.168.186.2:8080/)  
+[zabbix](http://192.168.186.2:80/)  
 [gitlab](http://192.168.150.188/)  
 [bigmodel](https://bigmodel.cn)  
 [deepseek](https://platform.deepseek.com/)  
@@ -15,9 +15,9 @@
 [RAGFlow](http://172.27.250.100:38080/)  
 [Redmine](http://192.168.150.189/)  
 [钉钉](https://alidocs.dingtalk.com/i/desktop)  
+[邮件系统](https://www.casmooc.cn/#/home)  
 [飞书云文档](https://seanetnetworktech.feishu.cn/wiki/wikcnZmBJWSaPo05yJTcpSOxmRe)  
-
-[中国科学院继续教育网](https://www.casmooc.cn/#/home)  
+[继续教育网](https://www.casmooc.cn/#/home)  
 [阿里企业邮箱](https://qiye.aliyun.com/)  
 [中央政府采购网](http://www.zycg.gov.cn/)  
 
