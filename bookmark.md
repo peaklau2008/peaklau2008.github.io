@@ -2,7 +2,7 @@
 
 ## IT
 
-[redmine](http://8.140.195.231/redmine)   
+[redmine](https://8.140.195.231/redmine)   
 [overleaf](http://8.140.195.231:28080)   
 [jenkins](http://192.168.186.2:8080/)  
 [zabbix](http://192.168.186.2:80/)  
