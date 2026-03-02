@@ -1,0 +1,38 @@
+# .cnb.yml
+$:
+  push:
+    - services:
+        - docker        
+      imports:
+        - https://cnb.cool/massapi/keys/-/blob/main/github.yml    
+      stages:
+        - name: sync to github
+          image: tencentcom/git-sync
+          settings:
+            target_url: https://github.com/peaklau2008/${CNB_REPO_NAME}.git
+            auth_type: https
+            username: ${GIT_USERNAME}
+            password: ${GIT_ACCESS_TOKEN}   
+
+  vscode:
+    - runner:
+        cpus: 4     
+      docker:
+        image: docker.cnb.cool/massapi/default-dev-env        
+      imports: https://cnb.cool/massapi/keys/-/blob/main/agent.yml
+      env:
+        CNB_WELCOME_CMD: echo "Welcome to CNB"      
+      services:
+        - vscode
+        - docker
+      stages:
+        - name: kilo-code-settings.json
+          script: mkdir -p ~/Documents; envsubst < /root/tpl/Documents/kilo-code-settings.json > /root/Documents/kilo-code-settings.json      
+        - name: mcp_settings.json
+          script: mkdir -p /root/.local/share/code-server/User/globalStorage/kilocode.kilo-code/settings; envsubst < /root/tpl/kilocode/mcp_settings.json > /root/.local/share/code-server/User/globalStorage/kilocode.kilo-code/settings/mcp_settings.json      
+        - name: config.toml
+          script: mkdir -p ~/.codex; envsubst < /root/tpl/.codex/config.toml > /root/.codex/config.toml      
+        - name: auth.json
+          script: mkdir -p ~/.codex; envsubst < /root/tpl/.codex/auth.json > /root/.codex/auth.json      
+        - name: ls
+          script: ls -la
