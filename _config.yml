@@ -8,9 +8,13 @@ twitter_username: ""
 github_username:  peaklau2008
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
-  - jekyll-feed
+  # existing plugins
+  - jekyll-feed  
+  - jekyll-remote-theme
+remote_theme: "jekyll/minima"
+
 
 exclude:
    - .sass-cache/
@@ -20,6 +24,7 @@ exclude:
    - Gemfile.lock
    - node_modules/
    - README.md
+
 
 minima:
   skin: dark
