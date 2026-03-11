@@ -20,4 +20,13 @@ exclude:
    - Gemfile.lock
    - node_modules/
    - README.md
-      
+
+minima:
+  skin: dark
+  nav_pages:
+    - about.md  
+    - bookmarks.md      
+  social_links:
+    - title: peaklau2008
+      icon: github
+      url: "https://github.com/peaklau2008"    

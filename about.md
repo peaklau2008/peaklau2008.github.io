@@ -4,7 +4,4 @@ title: About
 permalink: /about/
 ---
 
-[Bookmarks](/bookmarks/)
-
 [Students](/students/)
-
