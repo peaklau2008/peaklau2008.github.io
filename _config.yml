@@ -7,11 +7,13 @@ url: "https://blog.massapi.com" # the base hostname & protocol for your site, e.
 twitter_username: ""
 github_username:  peaklau2008
 
+markdown: kramdown
 # Build settings
 #theme: minima
 plugins:
   # existing plugins
   - jekyll-feed  
+  - jekyll-seo-tag  
   - jekyll-remote-theme
 remote_theme: "jekyll/minima"
 
