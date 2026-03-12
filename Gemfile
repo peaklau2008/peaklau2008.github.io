@@ -15,7 +15,10 @@ gem "jekyll", "~> 3.9.4"
 gem "jekyll-remote-theme"
 gem 'jekyll-seo-tag'
 gem "webrick"
-gem "csv base64 bigdecimal logger"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
