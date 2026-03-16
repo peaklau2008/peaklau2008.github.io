@@ -30,7 +30,7 @@ exclude:
 
 
 minima:
-  skin: dark
+  skin: light
   show_excerpts: true
   excerpt_separator: "<!--more-->"    
   nav_pages:
